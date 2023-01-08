@@ -29,7 +29,7 @@ The game is developed turn-by-turn and the player must make strategic decisions 
 The game grid is hexagonal and each hexagon represents a territory with different characteristics, such as terrain type, available resources, and more.
 The game has a technology tree that allows the player to evolve and improve their skills and resources. The player can research new technologies using their resources and unlock new skills and improvements.
 
-# User interface (HUD)
+# User interface
 
 The game will include a user interface (HUD) that will display terrain information, resources, and more. This will allow the player to make strategic decisions more effectively.
 The HUD should include:
