@@ -52,7 +52,7 @@ The documentation should include:
 * Instructions for contributing to the game's code and submitting pull requests
 
 # Used technologies
-It is expected that the programmer will use GitHub and Typescript or C#? technologies to develop the game.
+It is expected that the programmer will use GitHub and C# and [Monogame](https://www.monogame.net/) to develop the game.
 It is expected that the programmer will follow best programming practices and use an object-oriented development approach to organize the game's code.
 
 
