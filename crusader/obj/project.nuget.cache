@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZ1SDsfvI7k73fDNKZeJr58J5A8RDledno5/2C4duaicu1kXoL0WH5WhAS94+xT0sg2mZPf2jwvj5/z58TgaMw==",
+  "success": true,
+  "projectFilePath": "/Users/wilfredor/Projects/crusader/crusader/crusader.csproj",
+  "expectedPackageFiles": [
+    "/Users/wilfredor/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/wilfredor/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
